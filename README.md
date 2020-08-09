@@ -1,7 +1,7 @@
 # AuthGG-appManager
 Program to control your application created in auth.gg (reset hwids, create licenses among many other functions) without entering the page
 
-### Created by me with official auth.gg documentation, for educational purposes.
+### Created by me with the official auth.gg documentation, for educational purposes.
 
 > Credits to [Outbuilt](https://github.com/Outbuilt) for being the creator of Auth.GG
 
